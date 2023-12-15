@@ -1,0 +1,30 @@
+.form-heading{
+    font-size: 20px;
+    color: #000;
+    font-weight: 500;
+}
+.main-form{
+    width: 100%;
+    margin: 1rem;
+    display: flex;
+}
+.main-form1{
+    width: 50%;
+    margin-top: 1rem;
+    margin-left: 25rem;
+}
+.main-form-list{
+    width: 35%;
+}
+.form{
+    margin-top: 1rem;
+}
+.form-label{
+    align-items: center;
+    text-align: center;
+}
+.main-table{
+    width: 70%;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
